@@ -1,0 +1,23 @@
+body{
+        background:blue;
+        color:red;
+        font-family:'Arial';
+        font-size:15p;
+}
+
+#containter{
+    width: 60%;
+    background:black;
+    margin:20px auto;
+    overflow:auto;
+    padding: 25px;
+}
+header{
+    text-align:center;
+    border-bottom;white dashed 1px;
+}           
+     h1{ 
+         margin:0;
+         padding:0;
+         
+     }
